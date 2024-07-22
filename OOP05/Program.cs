@@ -1,5 +1,6 @@
 ﻿using OOP05.First;
 using OOP05.second;
+using OOP05.Third;
 
 namespace OOP05
 {
@@ -86,7 +87,42 @@ namespace OOP05
             //Console.WriteLine(Maths.Multiply(7,8));
             //Console.WriteLine(Maths.Divide(7,2));
             #endregion
+            #region Third
+            #region 3
+            //Duration D = new Duration(1, 10, 15);
+            //Console.WriteLine(D.ToString());
 
+            //Duration D1 = new Duration(3600);
+            //Console.WriteLine(D1.ToString());
+
+            //Duration D2 = new Duration(7800);
+            //Console.WriteLine(D2.ToString());
+
+            //Duration D3 = new Duration(666);
+            //Console.WriteLine(D3.ToString());
+
+            #endregion
+            #region 4
+            //Duration D3;
+            //Duration D1 = new Duration(3600);
+            //Duration D2 = new Duration(7800);
+
+            //D3 = D1 + D2;
+            //D3 = D1 + 7800;
+            //D3 = 666 + D3;
+            //D3 = ++D1;
+            //D3 = --D2;
+            //D1 = D1 - D2;
+            //if (D1 > D2) { Console.WriteLine(">"); }
+            //if (D1 <= D2) { Console.WriteLine("<="); }
+            //if (D1) { Console.WriteLine("D1"); }
+            //DateTime Obj = (DateTime)D1;
+            //Console.WriteLine(Obj.ToString()); 
+            #endregion
+
+
+            #endregion
+            
         }
     }
 }
