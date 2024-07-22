@@ -1,4 +1,5 @@
 ﻿using OOP05.First;
+using OOP05.second;
 
 namespace OOP05
 {
@@ -78,6 +79,12 @@ namespace OOP05
             //P1.X = 0;
             //Console.WriteLine(P2.X);
             //#endregion
+            #endregion
+            #region second
+            //Console.WriteLine( Maths.Add(1, 1));
+            //Console.WriteLine(Maths.Subtract(6,3));
+            //Console.WriteLine(Maths.Multiply(7,8));
+            //Console.WriteLine(Maths.Divide(7,2));
             #endregion
 
         }
